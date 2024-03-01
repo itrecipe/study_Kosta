@@ -1,1 +1,1 @@
-# study_Kosta
+# study_Ks
