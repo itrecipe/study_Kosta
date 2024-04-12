@@ -1,0 +1,20 @@
+public class AccessModifier03  {
+    public static void main(String[] args) {  		
+				
+        Dog obj = new Dog();
+		
+        obj.breed = "포메라니언";		
+        obj.color = "갈색";
+		
+        System.out.println("강이지 품종 : " + obj.breed);
+        System.out.println("강이지 색상 : " + obj.color);		
+        obj.bowwow() ;
+        obj.age = 10;
+        System.out.println("강이지 나이 : " + obj.age);	
+        obj.run() ;
+		
+        obj.name = "다운";
+        System.out.println("강이지 이름 : " + obj.name);	
+        obj.sleep() ;		
+    }
+}
