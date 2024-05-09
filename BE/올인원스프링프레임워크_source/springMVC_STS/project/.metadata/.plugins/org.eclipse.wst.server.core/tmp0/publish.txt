@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Fri Jun 16 13:58:45 KST 2023
+org.eclipse.jst.jee.server\:ch10_pjt_01=C\:\\springMVC_STS\\download\\apache-tomcat-9.0.73\\apache-tomcat-9.0.73\\wtpwebapps\\ch10_pjt_01
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ywkim\\.m2\\repository\\org\\springframework\\spring-web\\5.2.9.RELEASE\\spring-web-5.2.9.RELEASE.jar=C\:\\springMVC_STS\\download\\apache-tomcat-9.0.73\\apache-tomcat-9.0.73\\wtpwebapps\\ch07_pjt_01\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE.jar
+org.eclipse.jst.jee.server\:BookRentalPjt=C\:\\springMVC_STS\\download\\apache-tomcat-9.0.73\\apache-tomcat-9.0.73\\wtpwebapps\\BookRentalPjt
+org.eclipse.jst.jee.server\:ch08_pjt_01=C\:\\springMVC_STS\\download\\apache-tomcat-9.0.73\\apache-tomcat-9.0.73\\wtpwebapps\\ch08_pjt_01
+org.eclipse.jst.jee.server\:ch07_pjt_01=C\:\\springMVC_STS\\download\\apache-tomcat-9.0.73\\apache-tomcat-9.0.73\\wtpwebapps\\ch07_pjt_01
